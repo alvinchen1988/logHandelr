@@ -1,5 +1,5 @@
 {
-    "name": "canadadrives/logHandler",
+    "name": "canadadrives/loghandler",
     "description": "Used to handle logs",
     "type": "library",
     "minimum-stability": "stable",
