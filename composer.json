@@ -1,0 +1,14 @@
+{
+    "name": "canadadrives/logHandler",
+    "description": "Used to handle logs",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8 || ^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CanadaDrives\\": "src/"
+        }
+    }
+}
