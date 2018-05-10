@@ -1,6 +1,6 @@
 <?php
 
-namespace CanadaDrives;
+namespace CanadaDrives\Integration;
 
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\SyslogUdpHandler;
